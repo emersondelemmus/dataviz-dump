@@ -1,2 +1,2 @@
-# Data-Visualization-Dump
-Just a collection of data visualization scripts to plot data.
+# Data visualization dump
+A collection of data visualization scripts to plot data.
